@@ -63,6 +63,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adonisventocilla&show_icons=true&count_private=true" alt="adonisventocilla" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonisventocilla&layout=compact&hide=html" alt="adonisventocilla" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adonisventocilla&show_icons=true&count_private=true" alt="adonisventocilla" /><p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonisventocilla&layout=compact&hide=html" alt="adonisventocilla" /></p>
