@@ -4,15 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adonisventocilla" alt="adonisventocilla" /> </p>
 
 <p align="center"> 
-<a href="https://codepen.io/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://dev.to/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://linkedin.com/in/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://stackoverflow.com/users/20404600/adonis-ventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://codesandbox.io/u/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://kaggle.com/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://fb.com/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://instagram.com/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adonisventocilla" height="45" width="45" /></a>
-<a href="https://medium.com/@adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@adonisventocilla" height="45" width="45" /></a>
+<a href="https://codepen.io/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/codepen.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://packagist.org/packages/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/packagist.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://dev.to/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/devdotto.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://stackoverflow.com/users/20404600/adonis-ventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/stackoverflow.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://codesandbox.io/u/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/codesandbox.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://kaggle.com/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/kaggle.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://medium.com/@adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/medium.svg" alt="@adonisventocilla" height="45" width="45" /></a>
+<a href="https://fb.com/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/facebook.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://instagram.com/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/instagram.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://twitter.com/adonis_vs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/twitter.svg" alt="adonisventocilla" height="45" width="45" /></a>
+<a href="https://linkedin.com/in/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/linkedin.svg" alt="adonisventocilla" height="45" width="45" /></a>
 </p>
 
 - 💼 I have a bachelor's degree in systems engineering
