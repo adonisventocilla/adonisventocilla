@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/adonisventocilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/linkedin.svg" alt="adonisventocilla" height="45" width="45" /></a>
 </p>
 
-- 💼 I have a bachelor's degree in systems engineering
+- 💼  I received my BE in system engineering
 
 - 🌱 I’m currently learning **AWS and Blockchain**
 
